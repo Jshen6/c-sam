@@ -1,0 +1,36 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# ignore eclipse files
+.project
+.classpath
+.settings
+.metadata
+
+# Package Files #
+#*.jar
+#*.war
+#*.ear
+
+*.class
+
+# ignore Maven generated target folders
+target
+
+# "temporary" build files
+out
+build
+#test
+
+# logs
+/stacktrace.log
+/logs
+*.log
+*.log.*
